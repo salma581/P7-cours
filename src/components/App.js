@@ -1,4 +1,7 @@
-import Banner from './Banner'
+
+import Banner from './Banner';
+import  './ShoppingList';
+
 
 function App() {
     return <Banner />
