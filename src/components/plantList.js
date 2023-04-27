@@ -5,4 +5,47 @@ export const plantList = [
         id: '1ed',
         isBestSale: true
     },
+
+    {
+		name: 'pothos argenté',
+		category: 'classique',
+		id: '3sd',
+		isSpecialOffer: true
+	},
+	{
+		name: 'yucca',
+		category: 'classique',
+		id: '4kk'
+
+	},
+	{
+		name: 'olivier',
+		category: 'extérieur',
+		id: '5pl',
+		isAvailable: false
+	},
+	{
+		name: 'géranium',
+		category: 'extérieur',
+		id: '6uo'
+	},
+	{
+		name: 'basilique',
+		category: 'extérieur',
+		id: '7ie',
+		isSpecialOffer: true
+	},
+	{
+		name: 'aloe',
+		category: 'plante grasse',
+		id: '8fp',
+		isSpecialOffer: true
+	},
+	{
+		name: 'succulente',
+		category: 'plante grasse',
+		id: '9vn'
+	}
+
+
 ]
